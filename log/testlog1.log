@@ -1,0 +1,915 @@
+2022-10-14 14:27:48,091 [main] INFO Accuride - VerifyUI test passed
+2022-10-14 14:27:50,390 [main] INFO Accuride - Login
+2022-10-14 14:28:01,221 [main] INFO Accuride - verify_All_product_smenu
+2022-10-14 14:28:11,617 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS
+2022-10-14 14:28:42,746 [main] INFO Accuride - VerifyUI test passed
+2022-10-14 14:28:45,077 [main] INFO Accuride - Login
+2022-10-14 14:28:55,469 [main] INFO Accuride - verify_All_product_smenu
+2022-10-14 14:29:03,758 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS
+2022-10-14 14:29:03,791 [main] INFO Accuride - verif_sub_menu_for_RESOURCES
+2022-10-14 14:29:03,816 [main] INFO Accuride - verify_sub_menu_for_BLOG
+2022-10-14 14:29:03,829 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS
+2022-10-14 14:29:03,841 [main] INFO Accuride - verify_sub_menu_for_COMPANY
+2022-10-14 14:29:03,857 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-14 14:29:03,874 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-14 14:29:03,886 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-14 14:29:03,902 [main] INFO Accuride - validate_by_applying_filter
+2022-10-14 14:29:03,916 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-14 14:29:03,931 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-14 14:29:03,942 [main] INFO Accuride - validate_Product_item
+2022-10-14 14:29:03,953 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-14 14:29:03,965 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-14 14:29:03,976 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-14 14:29:03,989 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-14 14:29:04,000 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-14 14:29:04,012 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-14 14:29:04,023 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-14 14:29:04,031 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-14 14:29:04,041 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-14 14:29:04,048 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-14 14:29:04,057 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-14 14:29:04,064 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-14 14:29:04,073 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-14 14:29:04,081 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button
+2022-10-14 14:29:04,095 [main] INFO Accuride - validate_by_clicking_next_button
+2022-10-14 14:29:04,103 [main] INFO Accuride - verify_UI_of_Payment_page
+2022-10-14 14:29:04,110 [main] INFO Accuride - Add_card_detail
+2022-10-14 14:29:04,118 [main] INFO Accuride - select_Term_and_condition
+2022-10-14 14:29:04,127 [main] INFO Accuride - verify_by_placing_order
+2022-10-14 14:33:24,439 [main] INFO Accuride - VerifyUI test passed
+2022-10-14 14:33:26,744 [main] INFO Accuride - Login
+2022-10-14 14:33:37,375 [main] INFO Accuride - verify_All_product_smenu
+2022-10-14 14:33:47,787 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS
+2022-10-14 14:35:56,988 [main] INFO Accuride - VerifyUI test passed
+2022-10-14 14:35:59,322 [main] INFO Accuride - Login
+2022-10-14 14:36:02,549 [main] INFO Accuride - Login test cases is Passed
+2022-10-14 14:36:02,766 [main] INFO Accuride - verify_All_product_smenu
+2022-10-14 14:36:13,008 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS
+2022-10-14 14:36:13,309 [main] INFO Accuride - verif_sub_menu_for_RESOURCES
+2022-10-14 14:36:13,335 [main] INFO Accuride - verify_sub_menu_for_BLOG
+2022-10-14 14:36:13,353 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS
+2022-10-14 14:36:13,373 [main] INFO Accuride - verify_sub_menu_for_COMPANY
+2022-10-14 14:36:13,384 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-14 14:36:13,395 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-14 14:36:13,404 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-14 14:36:13,415 [main] INFO Accuride - validate_by_applying_filter
+2022-10-14 14:36:13,425 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-14 14:36:13,438 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-14 14:36:13,452 [main] INFO Accuride - validate_Product_item
+2022-10-14 14:36:13,469 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-14 14:36:13,479 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-14 14:36:13,487 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-14 14:36:13,497 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-14 14:36:13,505 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-14 14:36:13,516 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-14 14:36:13,525 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-14 14:36:13,535 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-14 14:36:13,544 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-14 14:36:13,552 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-14 14:36:13,560 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-14 14:36:13,569 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-14 14:36:13,577 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-14 14:36:13,583 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button
+2022-10-14 14:36:13,589 [main] INFO Accuride - validate_by_clicking_next_button
+2022-10-14 14:36:13,596 [main] INFO Accuride - verify_UI_of_Payment_page
+2022-10-14 14:36:13,603 [main] INFO Accuride - Add_card_detail
+2022-10-14 14:36:13,612 [main] INFO Accuride - select_Term_and_condition
+2022-10-14 14:36:13,619 [main] INFO Accuride - verify_by_placing_order
+2022-10-14 14:37:30,343 [main] INFO Accuride - VerifyUI test passed
+2022-10-14 14:37:32,657 [main] INFO Accuride - Login
+2022-10-14 14:37:36,240 [main] INFO Accuride - Login test cases is Passed
+2022-10-14 14:37:36,508 [main] INFO Accuride - verify_All_product_smenu
+2022-10-14 14:37:40,753 [main] INFO Accuride - verify_All_product_submenu test cases is Passed
+2022-10-14 14:37:40,962 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS
+2022-10-14 14:37:51,336 [main] INFO Accuride - verif_sub_menu_for_RESOURCES
+2022-10-14 14:38:01,692 [main] INFO Accuride - verify_sub_menu_for_BLOG
+2022-10-14 14:38:12,032 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS
+2022-10-14 14:38:22,261 [main] INFO Accuride - verify_sub_menu_for_COMPANY
+2022-10-14 14:38:32,463 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-14 14:38:49,478 [main] INFO Accuride - verify_by_clicking_submenu_of_Product test cases is passed
+2022-10-14 14:38:49,729 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-14 14:39:00,101 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-14 14:39:01,375 [main] INFO Accuride - verify_product_filter_on_listing_page test cases is passed
+2022-10-14 14:39:01,578 [main] INFO Accuride - validate_by_applying_filter
+2022-10-14 14:39:02,796 [main] INFO Accuride - validate_by_applying_filter test cases is passed
+2022-10-14 14:39:02,996 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-14 14:39:04,312 [main] INFO Accuride - validate_sortby_button_product_postion test cases is passed
+2022-10-14 14:39:04,510 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-14 14:39:14,795 [main] INFO Accuride - validate_Product_item
+2022-10-14 14:39:25,055 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-14 14:39:35,318 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-14 14:39:45,586 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-14 14:39:55,803 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-14 14:40:06,022 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-14 14:40:16,267 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-14 14:40:26,525 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-14 14:40:28,021 [main] INFO Accuride - verify_by_adding_into_cart test is passed
+2022-10-14 14:40:28,266 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-14 14:40:38,605 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-14 14:40:48,908 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-14 14:40:59,177 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-14 14:41:09,419 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-14 14:41:19,704 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-14 14:41:29,982 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button
+2022-10-14 14:41:40,212 [main] INFO Accuride - validate_by_clicking_next_button
+2022-10-14 14:41:50,570 [main] INFO Accuride - verify_UI_of_Payment_page
+2022-10-17 11:51:36,371 [main] INFO Accuride - VerifyUI test passed
+2022-10-17 11:51:38,721 [main] INFO Accuride - Login
+2022-10-17 11:51:42,681 [main] INFO Accuride - Login test cases is Passed
+2022-10-17 11:51:42,951 [main] INFO Accuride - verify_All_product_smenu
+2022-10-17 11:51:49,163 [main] INFO Accuride - verify_All_product_submenu test cases is Passed
+2022-10-17 11:51:49,417 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS
+2022-10-17 11:51:50,888 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS test cases is passed
+2022-10-17 11:51:51,118 [main] INFO Accuride - verif_sub_menu_for_RESOURCES
+2022-10-17 11:51:52,585 [main] INFO Accuride - verif_sub_menu_for_RESOURCES test cases is passed
+2022-10-17 11:51:52,814 [main] INFO Accuride - verify_sub_menu_for_BLOG
+2022-10-17 11:51:54,230 [main] INFO Accuride - verify_sub_menu_for_BLOG test case is passed
+2022-10-17 11:51:54,602 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS
+2022-10-17 11:51:56,254 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS test cases is passed
+2022-10-17 11:51:56,510 [main] INFO Accuride - verify_sub_menu_for_COMPANY
+2022-10-17 11:51:57,953 [main] INFO Accuride - verify_sub_menu_for_COMPANY test case is passed
+2022-10-17 11:51:58,144 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 11:52:15,799 [main] INFO Accuride - verify_by_clicking_submenu_of_Product test cases is passed
+2022-10-17 11:52:16,009 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 11:52:18,083 [main] INFO Accuride - verify_UI_of_product_listing_page test passed
+2022-10-17 11:52:18,086 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 11:52:19,362 [main] INFO Accuride - verify_product_filter_on_listing_page test cases is passed
+2022-10-17 11:52:19,593 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 11:52:20,823 [main] INFO Accuride - validate_by_applying_filter test cases is passed
+2022-10-17 11:52:21,131 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 11:52:22,772 [main] INFO Accuride - validate_sortby_button_product_postion test cases is passed
+2022-10-17 11:52:23,144 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-17 11:52:24,654 [main] INFO Accuride - validate_search_filter_on_listing_page is passed
+2022-10-17 11:52:24,884 [main] INFO Accuride - validate_Product_item
+2022-10-17 11:52:25,325 [main] INFO Accuride - validate_Product_item test is passed
+2022-10-17 11:52:26,099 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 11:52:28,944 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity test cases is passed
+2022-10-17 11:52:29,305 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 11:52:30,803 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button test is passed
+2022-10-17 11:52:31,304 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 11:52:31,884 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct test is passed
+2022-10-17 11:52:32,100 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 11:52:33,633 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 11:52:33,983 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 11:52:37,673 [main] INFO Accuride - verify_description_for_product_detail test cases is passed
+2022-10-17 11:52:37,996 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-17 11:52:40,531 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity test is passed
+2022-10-17 11:52:40,846 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-17 11:52:42,263 [main] INFO Accuride - verify_by_adding_into_cart test is passed
+2022-10-17 11:52:42,563 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-17 11:52:45,173 [main] INFO Accuride - verify_by_clicking_cart_icon test is passed
+2022-10-17 11:52:45,568 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-17 11:52:47,047 [main] INFO Accuride - verify_UI_cart_pop_up test is passed
+2022-10-17 11:52:47,425 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-17 11:52:48,940 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart test is passed
+2022-10-17 11:52:49,229 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-17 11:52:51,229 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page test is passed
+2022-10-17 11:52:51,567 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 11:52:52,889 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button test is passed
+2022-10-17 11:52:53,182 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 11:52:56,191 [main] INFO Accuride - verify_by_adding_and_updating_new_address test is passed
+2022-10-17 11:52:56,398 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button
+2022-10-17 11:52:57,725 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button test is passed
+2022-10-17 11:52:59,047 [main] INFO Accuride - validate_by_clicking_next_button
+2022-10-17 11:53:00,409 [main] INFO Accuride - validate_by_clicking_next_button test is passed
+2022-10-17 11:53:01,694 [main] INFO Accuride - verify_UI_of_Payment_page
+2022-10-17 11:53:06,509 [main] INFO Accuride - verify_UI_of_Payment_page test is passed
+2022-10-17 11:53:07,885 [main] INFO Accuride - Add_card_detail
+2022-10-17 11:53:10,682 [main] INFO Accuride - Add_card_detail test is passed
+2022-10-17 11:53:11,972 [main] INFO Accuride - select_Term_and_condition
+2022-10-17 11:53:13,330 [main] INFO Accuride - select_Term_and_condition test is passed
+2022-10-17 12:08:51,787 [main] INFO Accuride - Login
+2022-10-17 12:08:56,021 [main] INFO Accuride - Login test cases is Passed
+2022-10-17 12:08:56,367 [main] INFO Accuride - Title verified
+2022-10-17 12:08:56,572 [main] INFO Accuride - verify_All_product_smenu
+2022-10-17 12:09:00,211 [main] INFO Accuride - verify_All_product_submenu test cases is Passed
+2022-10-17 12:09:00,419 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS
+2022-10-17 12:09:01,871 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS test cases is passed
+2022-10-17 12:09:02,051 [main] INFO Accuride - verif_sub_menu_for_RESOURCES
+2022-10-17 12:09:03,441 [main] INFO Accuride - verif_sub_menu_for_RESOURCES test cases is passed
+2022-10-17 12:09:03,742 [main] INFO Accuride - verify_sub_menu_for_BLOG
+2022-10-17 12:09:05,297 [main] INFO Accuride - verify_sub_menu_for_BLOG test case is passed
+2022-10-17 12:09:05,601 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS
+2022-10-17 12:09:07,200 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS test cases is passed
+2022-10-17 12:09:07,397 [main] INFO Accuride - verify_sub_menu_for_COMPANY
+2022-10-17 12:09:08,766 [main] INFO Accuride - verify_sub_menu_for_COMPANY test case is passed
+2022-10-17 12:09:08,972 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 12:09:11,434 [main] INFO Accuride - verify_by_clicking_submenu_of_Product test cases is passed
+2022-10-17 12:09:11,947 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 12:09:22,302 [main] INFO Accuride - verify_UI_of_product_listing_page test passed
+2022-10-17 12:09:22,317 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 12:09:23,775 [main] INFO Accuride - verify_product_filter_on_listing_page test cases is passed
+2022-10-17 12:09:24,059 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 12:09:25,363 [main] INFO Accuride - validate_by_applying_filter test cases is passed
+2022-10-17 12:09:25,722 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 12:09:27,040 [main] INFO Accuride - validate_sortby_button_product_postion test cases is passed
+2022-10-17 12:09:27,409 [main] INFO Accuride - validate_Product_item
+2022-10-17 12:09:27,953 [main] INFO Accuride - validate_Product_item test is passed
+2022-10-17 12:09:28,867 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 12:09:31,902 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity test cases is passed
+2022-10-17 12:09:32,206 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 12:09:33,755 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button test is passed
+2022-10-17 12:09:34,337 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 12:09:34,874 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct test is passed
+2022-10-17 12:09:35,164 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 12:09:36,810 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 12:09:37,118 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 12:09:40,072 [main] INFO Accuride - verify_description_for_product_detail test cases is passed
+2022-10-17 12:09:40,423 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-17 12:09:42,930 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity test is passed
+2022-10-17 12:09:43,282 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-17 12:09:44,598 [main] INFO Accuride - verify_by_adding_into_cart test is passed
+2022-10-17 12:09:44,992 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-17 12:09:47,570 [main] INFO Accuride - verify_by_clicking_cart_icon test is passed
+2022-10-17 12:09:47,952 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-17 12:09:49,842 [main] INFO Accuride - verify_UI_cart_pop_up test is passed
+2022-10-17 12:09:50,188 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-17 12:09:51,634 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart test is passed
+2022-10-17 12:09:51,975 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-17 12:09:53,728 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page test is passed
+2022-10-17 12:09:53,999 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 12:09:55,485 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button test is passed
+2022-10-17 12:09:55,899 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button
+2022-10-17 12:10:05,708 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button test is passed
+2022-10-17 12:10:06,925 [main] INFO Accuride - validate_by_clicking_next_button
+2022-10-17 12:10:08,174 [main] INFO Accuride - validate_by_clicking_next_button test is passed
+2022-10-17 12:10:09,398 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button
+2022-10-17 12:10:10,746 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button test is passed
+2022-10-17 12:10:12,026 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button
+2022-10-17 12:10:12,495 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button test is passed
+2022-10-17 12:22:36,474 [main] INFO Accuride - Login
+2022-10-17 12:22:46,156 [main] INFO Accuride - Login test cases is Passed
+2022-10-17 12:22:46,512 [main] INFO Accuride - verify_myQuote_button
+2022-10-17 12:22:52,950 [main] INFO Accuride - my Quote button verified successfully
+2022-10-17 12:22:53,211 [main] INFO Accuride - verify_by_clicking_Action_menu
+2022-10-17 12:22:53,813 [main] INFO Accuride - Action_menu clicked and verified
+2022-10-17 12:22:54,239 [main] INFO Accuride - verify_by_clicking_viewQuote_button
+2022-10-17 12:22:54,609 [main] INFO Accuride - view Quote button clicked and verified
+2022-10-17 12:22:54,941 [main] INFO Accuride - verify_by_clicking_AcceptandCheckout_button
+2022-10-17 12:23:05,280 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 12:23:15,636 [main] INFO Accuride - Add_card_detail
+2022-10-17 12:23:20,954 [main] INFO Accuride - select_Term_and_condition
+2022-10-17 12:24:47,780 [main] INFO Accuride - Login test passed
+2022-10-17 12:24:47,786 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 12:24:48,100 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 12:24:51,597 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 12:25:02,200 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 12:25:12,733 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 12:25:17,029 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2022-10-17 12:25:17,049 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 12:25:17,065 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-17 12:25:17,079 [main] INFO Accuride - validate_Product_item
+2022-10-17 12:25:17,093 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 12:25:17,111 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 12:25:17,127 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 12:25:17,138 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 12:25:17,149 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 12:25:17,160 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-17 12:25:17,173 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-17 12:25:17,184 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-17 12:25:17,194 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-17 12:25:17,204 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-17 12:25:17,214 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-17 12:25:17,224 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 12:25:17,232 [main] INFO Accuride - Verifying_and_clicking_on_ProceedToGuest_checkout
+2022-10-17 12:25:17,243 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:25:18,252 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:25:19,275 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:25:20,298 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:25:39,366 [main] INFO Accuride - Login test passed
+2022-10-17 12:25:39,372 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 12:25:39,661 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 12:25:42,608 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 12:25:53,091 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 12:26:03,742 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 12:26:14,513 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2022-10-17 12:26:25,294 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 12:26:35,829 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-17 12:26:37,773 [main] INFO Accuride - validate_search_filter_on_listing_page is passed
+2022-10-17 12:26:38,494 [main] INFO Accuride - validate_Product_item
+2022-10-17 12:26:49,301 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 12:26:59,799 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 12:27:10,550 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 12:27:21,221 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 12:27:31,655 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 12:30:58,789 [main] INFO Accuride - Login test passed
+2022-10-17 12:30:58,799 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 12:30:59,172 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 12:31:03,684 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 12:31:14,105 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 12:31:24,661 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 12:31:35,282 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2022-10-17 12:31:45,726 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 12:31:56,376 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-17 12:31:58,180 [main] INFO Accuride - validate_search_filter_on_listing_page is passed
+2022-10-17 12:31:58,640 [main] INFO Accuride - validate_Product_item
+2022-10-17 12:32:09,172 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 12:32:10,840 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 12:32:10,868 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 12:32:10,908 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 12:32:10,931 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 12:32:10,964 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-17 12:32:10,978 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-17 12:32:10,993 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-17 12:32:11,006 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-17 12:32:11,024 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-17 12:32:11,037 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-17 12:32:11,051 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 12:32:11,061 [main] INFO Accuride - Verifying_and_clicking_on_ProceedToGuest_checkout
+2022-10-17 12:32:11,072 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:32:12,092 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:32:13,099 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:32:14,111 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:32:15,125 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:32:16,138 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:32:17,153 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:32:18,165 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:34:10,338 [main] INFO Accuride - Login test passed
+2022-10-17 12:34:10,344 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 12:34:10,667 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 12:34:13,850 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 12:34:24,518 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 12:34:35,118 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 12:38:59,414 [main] INFO Accuride - Login test passed
+2022-10-17 12:38:59,426 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 12:38:59,844 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 12:39:14,266 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 12:39:25,016 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 12:39:32,775 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 12:39:32,804 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2022-10-17 12:39:32,827 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 12:39:32,833 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-17 12:39:32,975 [main] INFO Accuride - validate_Product_item
+2022-10-17 12:39:33,037 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 12:39:33,085 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 12:39:33,132 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 12:39:33,163 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 12:39:33,195 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 12:39:33,241 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-17 12:39:33,320 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-17 12:39:33,336 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-17 12:39:33,358 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-17 12:39:33,383 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-17 12:39:33,414 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-17 12:39:33,430 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 12:39:33,477 [main] INFO Accuride - Verifying_and_clicking_on_ProceedToGuest_checkout
+2022-10-17 12:39:33,493 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:39:34,512 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:39:35,532 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:39:36,552 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:45:14,701 [main] INFO Accuride - Login test passed
+2022-10-17 12:45:14,709 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 12:45:15,040 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 12:45:27,825 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 12:45:38,519 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 12:45:39,717 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 12:45:39,752 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2022-10-17 12:45:39,788 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 12:45:39,807 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-17 12:45:39,821 [main] INFO Accuride - validate_Product_item
+2022-10-17 12:45:39,852 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 12:45:39,869 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 12:45:39,893 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 12:45:39,910 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 12:45:39,920 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 12:45:39,931 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-17 12:45:39,941 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-17 12:45:39,951 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-17 12:45:39,961 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-17 12:45:39,971 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-17 12:45:39,984 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-17 12:45:39,998 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 12:45:40,008 [main] INFO Accuride - Verifying_and_clicking_on_ProceedToGuest_checkout
+2022-10-17 12:45:40,019 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:45:41,032 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:46:38,696 [main] INFO Accuride - Login
+2022-10-17 12:46:43,288 [main] INFO Accuride - Login test cases is Passed
+2022-10-17 12:46:44,149 [main] INFO Accuride - Login test passed
+2022-10-17 12:46:44,149 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 12:46:44,432 [main] INFO Accuride - verify_All_product_smenu
+2022-10-17 12:46:48,918 [main] INFO Accuride - verify_All_product_submenu test cases is Passed
+2022-10-17 12:46:49,142 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS
+2022-10-17 12:46:50,693 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS test cases is passed
+2022-10-17 12:46:50,987 [main] INFO Accuride - verif_sub_menu_for_RESOURCES
+2022-10-17 12:46:52,419 [main] INFO Accuride - verif_sub_menu_for_RESOURCES test cases is passed
+2022-10-17 12:46:52,684 [main] INFO Accuride - verify_sub_menu_for_BLOG
+2022-10-17 12:46:54,102 [main] INFO Accuride - verify_sub_menu_for_BLOG test case is passed
+2022-10-17 12:46:54,369 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS
+2022-10-17 12:46:55,978 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS test cases is passed
+2022-10-17 12:46:56,217 [main] INFO Accuride - verify_sub_menu_for_COMPANY
+2022-10-17 12:46:57,723 [main] INFO Accuride - verify_sub_menu_for_COMPANY test case is passed
+2022-10-17 12:46:58,065 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 12:47:17,006 [main] INFO Accuride - verify_by_clicking_submenu_of_Product test cases is passed
+2022-10-17 12:47:17,298 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 12:47:19,744 [main] INFO Accuride - verify_UI_of_product_listing_page test passed
+2022-10-17 12:47:19,747 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 12:47:21,139 [main] INFO Accuride - verify_product_filter_on_listing_page test cases is passed
+2022-10-17 12:47:21,539 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 12:47:22,968 [main] INFO Accuride - validate_by_applying_filter test cases is passed
+2022-10-17 12:47:23,287 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2022-10-17 12:47:26,276 [main] INFO Accuride - validate_switch_button_vertical_horizontal test cases is passed
+2022-10-17 12:47:26,578 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 12:47:28,061 [main] INFO Accuride - validate_sortby_button_product_postion test cases is passed
+2022-10-17 12:47:28,468 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-17 12:47:30,000 [main] INFO Accuride - validate_search_filter_on_listing_page is passed
+2022-10-17 12:47:30,288 [main] INFO Accuride - validate_Product_item
+2022-10-17 12:47:30,805 [main] INFO Accuride - validate_Product_item test is passed
+2022-10-17 12:47:31,520 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 12:47:34,390 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity test cases is passed
+2022-10-17 12:47:34,739 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 12:47:36,254 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button test is passed
+2022-10-17 12:47:36,922 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 12:47:37,332 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct test is passed
+2022-10-17 12:47:37,685 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 12:47:39,213 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 12:47:39,560 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 12:47:42,895 [main] INFO Accuride - verify_description_for_product_detail test cases is passed
+2022-10-17 12:47:43,202 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-17 12:47:45,700 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity test is passed
+2022-10-17 12:47:45,924 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-17 12:47:47,243 [main] INFO Accuride - verify_by_adding_into_cart test is passed
+2022-10-17 12:47:47,462 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-17 12:47:49,753 [main] INFO Accuride - verify_by_clicking_cart_icon test is passed
+2022-10-17 12:47:50,043 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-17 12:47:51,657 [main] INFO Accuride - verify_UI_cart_pop_up test is passed
+2022-10-17 12:47:51,891 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-17 12:47:53,284 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart test is passed
+2022-10-17 12:47:53,605 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-17 12:47:55,780 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page test is passed
+2022-10-17 12:47:56,049 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 12:47:57,348 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button test is passed
+2022-10-17 12:47:57,626 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:48:00,442 [main] INFO Accuride - verify_by_adding_and_updating_new_address test is passed
+2022-10-17 12:48:00,786 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button
+2022-10-17 12:48:02,554 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button test is passed
+2022-10-17 12:48:03,935 [main] INFO Accuride - validate_by_clicking_next_button
+2022-10-17 12:48:05,259 [main] INFO Accuride - validate_by_clicking_next_button test is passed
+2022-10-17 12:48:06,593 [main] INFO Accuride - verify_UI_of_Payment_page
+2022-10-17 12:48:17,024 [main] INFO Accuride - Add_card_detail
+2022-10-17 12:48:27,256 [main] INFO Accuride - select_Term_and_condition
+2022-10-17 12:48:28,560 [main] INFO Accuride - select_Term_and_condition test is passed
+2022-10-17 12:48:28,863 [main] INFO Accuride - verify_by_placing_order
+2022-10-17 12:48:30,189 [main] INFO Accuride - verify_by_placing_order test is passed
+2022-10-17 12:50:14,371 [main] INFO Accuride - Login
+2022-10-17 12:50:19,080 [main] INFO Accuride - Login test cases is Passed
+2022-10-17 12:50:19,602 [main] INFO Accuride - Login test passed
+2022-10-17 12:50:19,603 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 12:50:20,085 [main] INFO Accuride - verify_All_product_smenu
+2022-10-17 12:50:23,909 [main] INFO Accuride - verify_All_product_submenu test cases is Passed
+2022-10-17 12:50:24,222 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS
+2022-10-17 12:50:25,838 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS test cases is passed
+2022-10-17 12:50:26,079 [main] INFO Accuride - verif_sub_menu_for_RESOURCES
+2022-10-17 12:50:27,643 [main] INFO Accuride - verif_sub_menu_for_RESOURCES test cases is passed
+2022-10-17 12:50:27,870 [main] INFO Accuride - verify_sub_menu_for_BLOG
+2022-10-17 12:50:29,244 [main] INFO Accuride - verify_sub_menu_for_BLOG test case is passed
+2022-10-17 12:50:29,517 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS
+2022-10-17 12:50:31,023 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS test cases is passed
+2022-10-17 12:50:31,222 [main] INFO Accuride - verify_sub_menu_for_COMPANY
+2022-10-17 12:50:32,562 [main] INFO Accuride - verify_sub_menu_for_COMPANY test case is passed
+2022-10-17 12:50:32,757 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 12:50:51,378 [main] INFO Accuride - verify_by_clicking_submenu_of_Product test cases is passed
+2022-10-17 12:50:51,699 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 12:50:52,694 [main] INFO Accuride - verify_UI_of_product_listing_page test passed
+2022-10-17 12:50:52,694 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 12:50:54,089 [main] INFO Accuride - verify_product_filter_on_listing_page test cases is passed
+2022-10-17 12:50:54,490 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 12:50:55,799 [main] INFO Accuride - validate_by_applying_filter test cases is passed
+2022-10-17 12:50:56,144 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2022-10-17 12:50:59,206 [main] INFO Accuride - validate_switch_button_vertical_horizontal test cases is passed
+2022-10-17 12:50:59,447 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 12:51:00,803 [main] INFO Accuride - validate_sortby_button_product_postion test cases is passed
+2022-10-17 12:51:01,030 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-17 12:51:02,343 [main] INFO Accuride - validate_search_filter_on_listing_page is passed
+2022-10-17 12:51:02,565 [main] INFO Accuride - validate_Product_item
+2022-10-17 12:51:02,948 [main] INFO Accuride - validate_Product_item test is passed
+2022-10-17 12:51:03,523 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 12:51:06,106 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity test cases is passed
+2022-10-17 12:51:06,351 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 12:51:07,693 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button test is passed
+2022-10-17 12:51:08,117 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 12:51:09,117 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct test is passed
+2022-10-17 12:51:09,414 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 12:51:11,122 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 12:51:11,415 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 12:51:14,309 [main] INFO Accuride - verify_description_for_product_detail test cases is passed
+2022-10-17 12:51:14,671 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-17 12:51:17,187 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity test is passed
+2022-10-17 12:51:17,599 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-17 12:51:19,137 [main] INFO Accuride - verify_by_adding_into_cart test is passed
+2022-10-17 12:51:19,450 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-17 12:51:21,895 [main] INFO Accuride - verify_by_clicking_cart_icon test is passed
+2022-10-17 12:51:22,279 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-17 12:51:24,047 [main] INFO Accuride - verify_UI_cart_pop_up test is passed
+2022-10-17 12:51:24,518 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-17 12:51:25,947 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart test is passed
+2022-10-17 12:51:26,260 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-17 12:51:28,394 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page test is passed
+2022-10-17 12:51:28,689 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 12:51:30,115 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button test is passed
+2022-10-17 12:51:30,471 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 12:51:33,978 [main] INFO Accuride - verify_by_adding_and_updating_new_address test is passed
+2022-10-17 12:51:34,328 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button
+2022-10-17 12:51:36,036 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button test is passed
+2022-10-17 12:51:37,359 [main] INFO Accuride - validate_by_clicking_next_button
+2022-10-17 12:51:38,748 [main] INFO Accuride - validate_by_clicking_next_button test is passed
+2022-10-17 13:04:23,606 [main] INFO Accuride - Login
+2022-10-17 13:04:27,762 [main] INFO Accuride - Login test cases is Passed
+2022-10-17 13:04:28,753 [main] INFO Accuride - Login test passed
+2022-10-17 13:04:28,754 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 13:04:29,402 [main] INFO Accuride - verify_All_product_smenu
+2022-10-17 13:04:32,347 [main] INFO Accuride - verify_All_product_submenu test cases is Passed
+2022-10-17 13:04:32,555 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS
+2022-10-17 13:04:34,036 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS test cases is passed
+2022-10-17 13:04:34,414 [main] INFO Accuride - verif_sub_menu_for_RESOURCES
+2022-10-17 13:04:35,877 [main] INFO Accuride - verif_sub_menu_for_RESOURCES test cases is passed
+2022-10-17 13:04:36,188 [main] INFO Accuride - verify_sub_menu_for_BLOG
+2022-10-17 13:04:37,666 [main] INFO Accuride - verify_sub_menu_for_BLOG test case is passed
+2022-10-17 13:04:37,924 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS
+2022-10-17 13:04:39,511 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS test cases is passed
+2022-10-17 13:04:39,761 [main] INFO Accuride - verify_sub_menu_for_COMPANY
+2022-10-17 13:04:41,293 [main] INFO Accuride - verify_sub_menu_for_COMPANY test case is passed
+2022-10-17 13:04:41,533 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 13:04:44,102 [main] INFO Accuride - verify_by_clicking_submenu_of_Product test cases is passed
+2022-10-17 13:04:44,487 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 13:04:54,121 [main] INFO Accuride - verify_UI_of_product_listing_page test passed
+2022-10-17 13:04:54,125 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 13:04:55,406 [main] INFO Accuride - verify_product_filter_on_listing_page test cases is passed
+2022-10-17 13:04:55,733 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 13:04:57,059 [main] INFO Accuride - validate_by_applying_filter test cases is passed
+2022-10-17 13:04:57,323 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2022-10-17 13:04:59,980 [main] INFO Accuride - validate_switch_button_vertical_horizontal test cases is passed
+2022-10-17 13:05:00,277 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 13:05:01,662 [main] INFO Accuride - validate_sortby_button_product_postion test cases is passed
+2022-10-17 13:05:01,994 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-17 13:05:03,484 [main] INFO Accuride - validate_search_filter_on_listing_page is passed
+2022-10-17 13:05:03,787 [main] INFO Accuride - validate_Product_item
+2022-10-17 13:05:04,308 [main] INFO Accuride - validate_Product_item test is passed
+2022-10-17 13:05:04,934 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 13:05:07,936 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity test cases is passed
+2022-10-17 13:05:08,198 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 13:05:09,663 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button test is passed
+2022-10-17 13:05:10,000 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 13:05:10,950 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct test is passed
+2022-10-17 13:05:11,202 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 13:05:12,732 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 13:05:13,060 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 13:05:15,998 [main] INFO Accuride - verify_description_for_product_detail test cases is passed
+2022-10-17 13:05:16,258 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-17 13:05:18,794 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity test is passed
+2022-10-17 13:05:19,140 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-17 13:05:20,555 [main] INFO Accuride - verify_by_adding_into_cart test is passed
+2022-10-17 13:05:20,946 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-17 13:05:23,675 [main] INFO Accuride - verify_by_clicking_cart_icon test is passed
+2022-10-17 13:05:24,088 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-17 13:05:25,870 [main] INFO Accuride - verify_UI_cart_pop_up test is passed
+2022-10-17 13:05:26,134 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-17 13:05:27,455 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart test is passed
+2022-10-17 13:05:27,744 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-17 13:05:29,735 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page test is passed
+2022-10-17 13:05:30,056 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 13:05:31,467 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button test is passed
+2022-10-17 13:09:49,470 [main] INFO Accuride - Login test passed
+2022-10-17 13:09:49,476 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 13:09:49,830 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 13:09:59,335 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 13:10:09,676 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 13:10:19,993 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 13:16:03,326 [main] INFO Accuride - Login test passed
+2022-10-17 13:16:03,336 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 13:16:03,782 [main] INFO Accuride - verify_sub_menu_for_Store
+2022-10-17 13:16:06,862 [main] INFO Accuride - verify_sub_menu_for_COMPANY test case is passed
+2022-10-17 13:16:07,603 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 13:16:18,419 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 13:16:28,966 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 13:16:39,735 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2022-10-17 13:16:50,432 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 13:17:27,863 [main] INFO Accuride - Login test passed
+2022-10-17 13:17:27,870 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 13:17:28,153 [main] INFO Accuride - verify_sub_menu_for_Store
+2022-10-17 13:17:31,170 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 13:17:42,433 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 13:17:52,991 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 13:18:03,734 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2022-10-17 13:18:05,519 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 13:18:05,539 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-17 13:18:05,590 [main] INFO Accuride - validate_Product_item
+2022-10-17 13:18:05,684 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 13:18:05,744 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 13:18:05,777 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 13:18:05,792 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 13:18:05,809 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 13:18:05,833 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-17 13:18:05,856 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-17 13:18:05,869 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-17 13:18:05,893 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-17 13:18:05,914 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-17 13:18:05,929 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-17 13:18:05,940 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 13:18:05,951 [main] INFO Accuride - Verifying_and_clicking_on_ProceedToGuest_checkout
+2022-10-17 13:18:05,965 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:18:06,977 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:21:20,664 [main] INFO Accuride - Login test passed
+2022-10-17 13:21:20,673 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 13:21:20,975 [main] INFO Accuride - verify_sub_menu_for_Store
+2022-10-17 13:21:23,640 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 13:21:44,507 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 13:21:45,830 [main] INFO Accuride - verify_product_filter_on_listing_page test cases is passed
+2022-10-17 13:21:46,072 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 13:21:56,343 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2022-10-17 13:21:59,300 [main] INFO Accuride - validate_switch_button_vertical_horizontal test cases is passed
+2022-10-17 13:21:59,668 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 13:22:01,217 [main] INFO Accuride - validate_sortby_button_product_postion test cases is passed
+2022-10-17 13:22:01,588 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-17 13:22:03,112 [main] INFO Accuride - validate_search_filter_on_listing_page is passed
+2022-10-17 13:22:03,439 [main] INFO Accuride - validate_Product_item
+2022-10-17 13:22:13,763 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 13:22:24,192 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 13:22:34,467 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 13:22:44,773 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 13:22:55,108 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 13:23:05,334 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-17 13:23:15,685 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-17 13:23:17,401 [main] INFO Accuride - verify_by_adding_into_cart test is passed
+2022-10-17 13:23:17,725 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-17 13:23:20,272 [main] INFO Accuride - verify_by_clicking_cart_icon test is passed
+2022-10-17 13:23:20,538 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-17 13:23:30,821 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-17 13:23:41,136 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-17 13:23:51,489 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 13:24:01,783 [main] INFO Accuride - Verifying_and_clicking_on_ProceedToGuest_checkout
+2022-10-17 13:24:11,800 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:24:23,121 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:24:34,420 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:24:45,781 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:24:54,696 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:24:55,707 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:24:56,719 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:29:18,773 [main] INFO Accuride - Login test passed
+2022-10-17 13:29:18,780 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 13:29:19,132 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 13:29:29,540 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 13:29:40,228 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 13:29:46,766 [main] INFO Accuride - verify_product_filter_on_listing_page test cases is passed
+2022-10-17 13:29:47,090 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 13:29:57,439 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2022-10-17 13:30:00,654 [main] INFO Accuride - validate_switch_button_vertical_horizontal test cases is passed
+2022-10-17 13:30:01,138 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 13:30:02,781 [main] INFO Accuride - validate_sortby_button_product_postion test cases is passed
+2022-10-17 13:30:03,128 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-17 13:30:04,698 [main] INFO Accuride - validate_search_filter_on_listing_page is passed
+2022-10-17 13:30:05,100 [main] INFO Accuride - validate_Product_item
+2022-10-17 13:30:07,847 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 13:30:18,290 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 13:30:28,715 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 13:30:39,094 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 13:30:49,545 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 13:30:59,983 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-17 13:31:10,394 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-17 13:31:20,866 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-17 13:31:31,311 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-17 13:31:41,734 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-17 13:31:52,194 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-17 13:32:02,600 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 13:32:13,042 [main] INFO Accuride - Verifying_and_clicking_on_ProceedToGuest_checkout
+2022-10-17 13:32:23,455 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:32:34,914 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:32:46,390 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:32:57,897 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:33:09,386 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:33:20,786 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:33:32,264 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:33:43,755 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:33:55,223 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:34:06,653 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 13:34:18,111 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button
+2022-10-17 13:34:28,579 [main] INFO Accuride - validate_by_clicking_next_button
+2022-10-17 13:34:39,063 [main] INFO Accuride - verify_UI_of_Payment_page
+2022-10-17 13:34:49,533 [main] INFO Accuride - Add_card_detail
+2022-10-17 13:34:59,981 [main] INFO Accuride - select_Term_and_condition
+2022-10-17 14:04:32,449 [main] INFO Accuride - Login
+2022-10-17 14:04:36,549 [main] INFO Accuride - Login test cases is Passed
+2022-10-17 14:04:36,892 [main] INFO Accuride - Login test passed
+2022-10-17 14:04:36,893 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2022-10-17 14:04:37,145 [main] INFO Accuride - verify_All_product_smenu
+2022-10-17 14:04:40,509 [main] INFO Accuride - verify_All_product_submenu test cases is Passed
+2022-10-17 14:04:40,762 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS
+2022-10-17 14:04:42,341 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS test cases is passed
+2022-10-17 14:04:42,641 [main] INFO Accuride - verif_sub_menu_for_RESOURCES
+2022-10-17 14:04:44,116 [main] INFO Accuride - verif_sub_menu_for_RESOURCES test cases is passed
+2022-10-17 14:04:44,407 [main] INFO Accuride - verify_sub_menu_for_BLOG
+2022-10-17 14:04:45,900 [main] INFO Accuride - verify_sub_menu_for_BLOG test case is passed
+2022-10-17 14:04:46,171 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS
+2022-10-17 14:04:47,695 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS test cases is passed
+2022-10-17 14:04:47,992 [main] INFO Accuride - verify_sub_menu_for_COMPANY
+2022-10-17 14:04:49,399 [main] INFO Accuride - verify_sub_menu_for_COMPANY test case is passed
+2022-10-17 14:04:49,698 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2022-10-17 14:05:07,408 [main] INFO Accuride - verify_by_clicking_submenu_of_Product test cases is passed
+2022-10-17 14:05:07,722 [main] INFO Accuride - verify_UI_of_product_listing_page
+2022-10-17 14:05:08,734 [main] INFO Accuride - verify_UI_of_product_listing_page test passed
+2022-10-17 14:05:08,734 [main] INFO Accuride - verify_product_filter_on_listing_page
+2022-10-17 14:05:10,070 [main] INFO Accuride - verify_product_filter_on_listing_page test cases is passed
+2022-10-17 14:05:10,390 [main] INFO Accuride - validate_by_applying_filter
+2022-10-17 14:05:11,711 [main] INFO Accuride - validate_by_applying_filter test cases is passed
+2022-10-17 14:05:12,150 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2022-10-17 14:05:15,345 [main] INFO Accuride - validate_switch_button_vertical_horizontal test cases is passed
+2022-10-17 14:05:15,734 [main] INFO Accuride - validate_sortby_button_product_postion
+2022-10-17 14:05:17,247 [main] INFO Accuride - validate_sortby_button_product_postion test cases is passed
+2022-10-17 14:05:17,636 [main] INFO Accuride - validate_search_filter_on_listing_page
+2022-10-17 14:05:19,186 [main] INFO Accuride - validate_search_filter_on_listing_page is passed
+2022-10-17 14:05:19,535 [main] INFO Accuride - validate_Product_item
+2022-10-17 14:05:20,046 [main] INFO Accuride - validate_Product_item test is passed
+2022-10-17 14:05:20,723 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2022-10-17 14:05:23,479 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity test cases is passed
+2022-10-17 14:05:23,700 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2022-10-17 14:05:25,039 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button test is passed
+2022-10-17 14:05:25,575 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2022-10-17 14:05:25,950 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct test is passed
+2022-10-17 14:05:26,160 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 14:05:27,598 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2022-10-17 14:05:27,860 [main] INFO Accuride - verify_description_for_product_detail
+2022-10-17 14:05:30,843 [main] INFO Accuride - verify_description_for_product_detail test cases is passed
+2022-10-17 14:05:31,133 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2022-10-17 14:05:33,733 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity test is passed
+2022-10-17 14:05:34,068 [main] INFO Accuride - verify_by_adding_into_cart
+2022-10-17 14:05:35,524 [main] INFO Accuride - verify_by_adding_into_cart test is passed
+2022-10-17 14:05:35,887 [main] INFO Accuride - verify_by_clicking_cart_icon
+2022-10-17 14:05:38,253 [main] INFO Accuride - verify_by_clicking_cart_icon test is passed
+2022-10-17 14:05:38,692 [main] INFO Accuride - verify_UI_cart_pop_up
+2022-10-17 14:05:40,269 [main] INFO Accuride - verify_UI_cart_pop_up test is passed
+2022-10-17 14:05:40,620 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2022-10-17 14:05:42,116 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart test is passed
+2022-10-17 14:05:42,371 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2022-10-17 14:05:44,410 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page test is passed
+2022-10-17 14:05:44,646 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2022-10-17 14:05:46,033 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button test is passed
+2022-10-17 14:05:46,330 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2022-10-17 14:05:49,454 [main] INFO Accuride - verify_by_adding_and_updating_new_address test is passed
+2022-10-17 14:05:49,734 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button
+2022-10-17 14:05:51,572 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button test is passed
+2022-10-17 14:05:52,836 [main] INFO Accuride - validate_by_clicking_next_button
+2022-10-17 14:05:54,193 [main] INFO Accuride - validate_by_clicking_next_button test is passed
+2023-03-18 21:31:51,221 [main] INFO Accuride - Login
+2023-03-18 21:31:56,888 [main] INFO Accuride - Login test cases is Passed
+2023-03-18 21:31:57,156 [main] INFO Accuride - Login test passed
+2023-03-18 21:31:57,157 [main] INFO Accuride - Login_TC_ID_10LoggedIn test cases Passed
+2023-03-18 21:31:57,353 [main] INFO Accuride - verify_All_product_smenu
+2023-03-18 21:32:04,116 [main] INFO Accuride - verify_All_product_submenu test cases is Passed
+2023-03-18 21:32:04,294 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS
+2023-03-18 21:32:05,704 [main] INFO Accuride - verif_sub_menu_for_RESOURCES
+2023-03-18 21:32:15,990 [main] INFO Accuride - verify_sub_menu_for_BLOG
+2023-03-18 21:32:26,216 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS
+2023-03-18 21:32:36,474 [main] INFO Accuride - verify_sub_menu_for_COMPANY
+2023-03-18 21:32:46,683 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2023-03-18 21:33:00,457 [main] INFO Accuride - verify_by_clicking_submenu_of_Product test cases is passed
+2023-03-18 21:33:00,661 [main] INFO Accuride - verify_UI_of_product_listing_page
+2023-03-18 21:33:11,002 [main] INFO Accuride - verify_product_filter_on_listing_page
+2023-03-18 21:33:15,913 [main] INFO Accuride - verify_product_filter_on_listing_page test cases is passed
+2023-03-18 21:33:16,440 [main] INFO Accuride - validate_by_applying_filter
+2023-03-18 21:33:17,637 [main] INFO Accuride - validate_by_applying_filter test cases is passed
+2023-03-18 21:33:17,855 [main] INFO Accuride - validate_switch_button_vertical_horizontal
+2023-03-18 21:33:20,278 [main] INFO Accuride - validate_switch_button_vertical_horizontal test cases is passed
+2023-03-18 21:33:20,502 [main] INFO Accuride - validate_sortby_button_product_postion
+2023-03-18 21:33:21,840 [main] INFO Accuride - validate_sortby_button_product_postion test cases is passed
+2023-03-18 21:33:22,051 [main] INFO Accuride - validate_search_filter_on_listing_page
+2023-03-18 21:33:23,397 [main] INFO Accuride - validate_search_filter_on_listing_page is passed
+2023-03-18 21:33:23,620 [main] INFO Accuride - validate_Product_item
+2023-03-18 21:33:23,981 [main] INFO Accuride - validate_Product_item test is passed
+2023-03-18 21:33:24,213 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2023-03-18 21:33:26,802 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity test cases is passed
+2023-03-18 21:33:27,041 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2023-03-18 21:33:28,359 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button test is passed
+2023-03-18 21:33:28,576 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2023-03-18 21:33:29,756 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct test is passed
+2023-03-18 21:33:30,014 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2023-03-18 21:33:31,424 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2023-03-18 21:33:31,613 [main] INFO Accuride - verify_description_for_product_detail
+2023-03-18 21:33:35,461 [main] INFO Accuride - verify_description_for_product_detail test cases is passed
+2023-03-18 21:33:35,687 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2023-03-18 21:33:38,073 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity test is passed
+2023-03-18 21:33:38,286 [main] INFO Accuride - verify_by_adding_into_cart
+2023-03-18 21:33:39,564 [main] INFO Accuride - verify_by_adding_into_cart test is passed
+2023-03-18 21:33:39,804 [main] INFO Accuride - verify_by_clicking_cart_icon
+2023-03-18 21:33:42,099 [main] INFO Accuride - verify_by_clicking_cart_icon test is passed
+2023-03-18 21:33:42,367 [main] INFO Accuride - verify_UI_cart_pop_up
+2023-03-18 21:33:45,507 [main] INFO Accuride - verify_UI_cart_pop_up test is passed
+2023-03-18 21:33:45,728 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2023-03-18 21:33:47,038 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart test is passed
+2023-03-18 21:33:47,238 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2023-03-18 21:33:50,969 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page test is passed
+2023-03-18 21:33:51,134 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2023-03-18 21:33:52,365 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button test is passed
+2023-03-18 21:33:52,569 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2023-03-18 21:33:57,286 [main] INFO Accuride - verify_by_adding_and_updating_new_address test is passed
+2023-03-18 21:33:57,476 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button
+2023-03-18 21:33:58,944 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button test is passed
+2023-03-18 21:34:00,139 [main] INFO Accuride - validate_by_clicking_next_button
+2023-03-18 21:34:01,350 [main] INFO Accuride - validate_by_clicking_next_button test is passed
+2023-03-20 11:53:23,905 [main] INFO Accuride - VerifyUI test passed
+2023-03-20 11:53:26,181 [main] INFO Accuride - Login
+2023-03-20 11:54:50,338 [main] INFO Accuride - Login test cases is Passed
+2023-03-20 11:54:50,548 [main] INFO Accuride - verify_All_product_smenu
+2023-03-20 11:56:00,006 [main] INFO Accuride - verify_All_product_submenu test cases is Passed
+2023-03-20 11:56:00,190 [main] INFO Accuride - verify_the_sub_menu_for_MARKETS
+2023-03-20 11:56:01,603 [main] INFO Accuride - verif_sub_menu_for_RESOURCES
+2023-03-20 11:56:11,805 [main] INFO Accuride - verify_sub_menu_for_BLOG
+2023-03-20 11:56:22,030 [main] INFO Accuride - verif_sub_menu_for_SUPPORTS
+2023-03-20 11:56:32,265 [main] INFO Accuride - verify_sub_menu_for_COMPANY
+2023-03-20 11:56:42,514 [main] INFO Accuride - verify_by_clicking_submenu_of_Product
+2023-03-20 11:57:40,659 [main] INFO Accuride - verify_by_clicking_submenu_of_Product test cases is passed
+2023-03-20 11:57:40,890 [main] INFO Accuride - verify_UI_of_product_listing_page
+2023-03-20 11:57:51,184 [main] INFO Accuride - verify_product_filter_on_listing_page
+2023-03-20 11:57:53,517 [main] INFO Accuride - verify_product_filter_on_listing_page test cases is passed
+2023-03-20 11:57:53,685 [main] INFO Accuride - validate_by_applying_filter
+2023-03-20 11:57:54,863 [main] INFO Accuride - validate_by_applying_filter test cases is passed
+2023-03-20 11:57:55,016 [main] INFO Accuride - validate_sortby_button_product_postion
+2023-03-20 11:57:56,304 [main] INFO Accuride - validate_sortby_button_product_postion test cases is passed
+2023-03-20 11:57:56,517 [main] INFO Accuride - validate_search_filter_on_listing_page
+2023-03-20 11:57:57,833 [main] INFO Accuride - validate_search_filter_on_listing_page is passed
+2023-03-20 11:57:58,018 [main] INFO Accuride - validate_Product_item
+2023-03-20 11:57:58,343 [main] INFO Accuride - validate_Product_item test is passed
+2023-03-20 11:57:58,548 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity
+2023-03-20 11:58:01,248 [main] INFO Accuride - verify_by_selecting_lenght_and_quantity test cases is passed
+2023-03-20 11:58:01,457 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button
+2023-03-20 11:58:02,773 [main] INFO Accuride - validate_by_adding_product_into_cart_by_addtocart_button test is passed
+2023-03-20 11:58:03,007 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct
+2023-03-20 11:58:05,007 [main] INFO Accuride - verify_by_adding_product_into_cart_without_lenght_quntity_configureProduct test is passed
+2023-03-20 11:58:05,232 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2023-03-20 11:58:06,673 [main] INFO Accuride - verify_by_clicking_on_detail_button
+2023-03-20 11:58:06,857 [main] INFO Accuride - verify_description_for_product_detail
+2023-03-20 11:58:11,993 [main] INFO Accuride - verify_description_for_product_detail test cases is passed
+2023-03-20 11:58:12,201 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity
+2023-03-20 11:58:14,591 [main] INFO Accuride - verify_by_hover_on_productItem_lenght_quantity test is passed
+2023-03-20 11:58:14,781 [main] INFO Accuride - verify_by_adding_into_cart
+2023-03-20 11:58:16,072 [main] INFO Accuride - verify_by_adding_into_cart test is passed
+2023-03-20 11:58:16,289 [main] INFO Accuride - verify_by_clicking_cart_icon
+2023-03-20 11:58:18,603 [main] INFO Accuride - verify_by_clicking_cart_icon test is passed
+2023-03-20 11:58:18,893 [main] INFO Accuride - verify_UI_cart_pop_up
+2023-03-20 11:58:20,322 [main] INFO Accuride - verify_UI_cart_pop_up test is passed
+2023-03-20 11:58:20,601 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart
+2023-03-20 11:58:21,953 [main] INFO Accuride - Verify_by_clicking_View_and_edit_cart test is passed
+2023-03-20 11:58:22,139 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page
+2023-03-20 11:58:25,037 [main] INFO Accuride - verify_UI_of_the_View_and_edit_cart_page test is passed
+2023-03-20 11:58:25,244 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button
+2023-03-20 11:58:26,504 [main] INFO Accuride - verify_by_clicking_Proceed_to_checkout_button test is passed
+2023-03-20 11:58:26,727 [main] INFO Accuride - verify_by_adding_and_updating_new_address
+2023-03-20 11:58:31,269 [main] INFO Accuride - verify_by_adding_and_updating_new_address test is passed
+2023-03-20 11:58:31,495 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button
+2023-03-20 11:58:33,003 [main] INFO Accuride - verify_by_selecting_ShipHere_radio_button test is passed
+2023-03-20 11:58:34,188 [main] INFO Accuride - validate_by_clicking_next_button
+2023-03-20 11:58:35,524 [main] INFO Accuride - validate_by_clicking_next_button test is passed
+2023-03-20 11:58:36,713 [main] INFO Accuride - verify_UI_of_Payment_page
+2023-03-20 11:58:47,492 [main] INFO Accuride - verify_UI_of_Payment_page test is passed
+2023-03-20 11:58:48,665 [main] INFO Accuride - Add_card_detail
+2023-03-20 11:58:51,155 [main] INFO Accuride - Add_card_detail test is passed
+2023-03-20 11:58:52,370 [main] INFO Accuride - select_Term_and_condition
+2023-03-20 11:58:53,578 [main] INFO Accuride - select_Term_and_condition test is passed
+2023-03-20 14:57:43,483 [main] INFO Accuride - URL is opened
+2023-03-20 14:57:43,507 [main] INFO Accuride - Clicked on SignUp/Login Button
+2023-03-20 14:57:51,814 [main] INFO Accuride - Verified the UIloginTest page
+2023-03-20 14:57:52,122 [main] INFO Accuride - Login_TC_ID_1UIloginTest test passed
+2023-03-20 14:57:52,162 [main] INFO Accuride - URL is opened
+2023-03-20 14:57:52,163 [main] INFO Accuride - Clicked on SignUp/Login Button
+2023-03-20 14:58:05,359 [main] INFO Accuride - Login_TC_ID_5CheckByNotFillingEmail test cases started
+2023-03-20 14:58:15,750 [main] INFO Accuride - Signup_TC_ID_6_verify_without_providing_Last_name test cases started
+2023-03-20 14:58:26,237 [main] INFO Accuride - Login_TC_ID_3CheckByNotFillingEmail test cases started
+2023-03-20 14:58:36,823 [main] INFO Accuride - Signup_TC_ID_8_verify_without_providingPassword test cases started
+2023-03-20 14:58:47,231 [main] INFO Accuride - Signup_TC_ID_9_verify_by_providing_diffrent_Password_into_Password_and_confirm_password test cases started
+2023-03-20 14:58:57,697 [main] INFO Accuride - Signup_TC_ID_11_Check_with_existing_email_address_which_is_already_been_used test cases started
+2023-03-20 14:59:08,775 [main] INFO Accuride - Signup_TC_ID_12_Check_the_password_limit_when_enter_value_less_than_min test cases started
+2023-03-20 14:59:19,811 [main] INFO Accuride - Signup_TC_ID_14_Check_the_password_when_passing_only_numbers test cases started
+2023-03-20 14:59:30,748 [main] INFO Accuride - Signup_TC_ID_16_By_entering_all_the_required_mandatory_field test cases started
+2023-03-20 15:02:05,939 [main] INFO Accuride - URL is opened
+2023-03-20 15:02:05,962 [main] INFO Accuride - Clicked on SignUp/Login Button
+2023-03-20 15:02:07,611 [main] INFO Accuride - Verified the UIloginTest page
+2023-03-20 15:02:07,957 [main] INFO Accuride - Login_TC_ID_1UIloginTest test passed
+2023-03-20 15:05:11,145 [main] INFO Accuride - URL is opened
+2023-03-20 15:05:11,168 [main] INFO Accuride - Clicked on SignUp/Login Button
+2023-03-20 15:05:13,595 [main] INFO Accuride - Verified the UIloginTest page
+2023-03-20 15:05:14,014 [main] INFO Accuride - Login_TC_ID_1UIloginTest test passed
+2023-03-20 15:05:14,064 [main] INFO Accuride - Login_TC_ID_5CheckByNotFillingEmail test cases started
+2023-03-20 15:08:31,577 [main] INFO Accuride - URL is opened
+2023-03-20 15:08:31,604 [main] INFO Accuride - Clicked on SignUp/Login Button
+2023-03-20 15:08:37,595 [main] INFO Accuride - Verified the UIloginTest page
+2023-03-20 15:08:37,955 [main] INFO Accuride - Login_TC_ID_1UIloginTest test passed
+2023-03-20 15:23:55,930 [main] INFO Accuride - URL is opened
+2023-03-20 15:23:55,959 [main] INFO Accuride - Clicked on SignUp/Login Button
+2023-03-20 15:23:57,955 [main] INFO Accuride - Verified the UIloginTest page
+2023-03-20 15:23:58,280 [main] INFO Accuride - Login_TC_ID_1UIloginTest test passed
+2023-03-20 15:24:42,774 [main] INFO Accuride - URL is opened
+2023-03-20 15:24:42,796 [main] INFO Accuride - Clicked on SignUp/Login Button
+2023-03-20 15:24:44,818 [main] INFO Accuride - Verified the UIloginTest page
+2023-03-20 15:24:45,274 [main] INFO Accuride - Login_TC_ID_1UIloginTest test passed
+2023-03-20 15:25:26,467 [main] INFO Accuride - URL is opened
+2023-03-20 15:25:26,488 [main] INFO Accuride - Clicked on SignUp/Login Button
+2023-03-20 15:27:17,786 [main] INFO Accuride - URL is opened
+2023-03-20 15:27:17,810 [main] INFO Accuride - Clicked on SignUp/Login Button
+2023-03-20 15:27:19,685 [main] INFO Accuride - Verified the UIloginTest page
+2023-03-20 15:27:20,023 [main] INFO Accuride - Login_TC_ID_1UIloginTest test passed
+2023-03-20 15:27:20,056 [main] INFO Accuride - URL is opened
+2023-03-20 15:27:20,058 [main] INFO Accuride - Clicked on SignUp/Login Button
+2023-03-20 15:41:35,123 [main] INFO Accuride - URL is opened
+2023-03-20 15:41:35,143 [main] INFO Accuride - Clicked on SignUp/Login Button
+2023-03-20 15:41:37,251 [main] INFO Accuride - Verified the UIloginTest page
+2023-03-20 15:41:37,590 [main] INFO Accuride - Login_TC_ID_1UIloginTest test passed
+2023-03-20 15:41:37,631 [main] INFO Accuride - URL is opened
+2023-03-20 15:41:37,632 [main] INFO Accuride - Clicked on SignUp/Login Button

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.Accuride.utilities.Reporting" />
+	</listeners>
+  <test name="Test">
+	  <parameter name="browser" value="chrome" />
+    <classes>
+      <class name="com.Accuride.testCases.TC_SignUp">
+		   <methods>
+			   <include name="Signup_TC_ID_1_verifySignUpButton()"/>
+			  <include name="Signup_TC_ID_2_UI_of_the_Sign_up_page()"/>
+			  </methods>
+		  </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

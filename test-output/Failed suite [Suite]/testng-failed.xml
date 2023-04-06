@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Suite]]">
+  <listeners>
+    <listener class-name="com.Accuride.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="AccurideEurope Test(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.Accuride.testCases.TC_ForgotPassword">
+        <methods>
+          <include name="setup"/>
+          <include name="TC_ForgotPassword_ID__7_9_verify_by_entering_email"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.Accuride.testCases.TC_ForgotPassword -->
+    </classes>
+  </test> <!-- AccurideEurope Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

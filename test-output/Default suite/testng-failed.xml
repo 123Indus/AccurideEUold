@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.Accuride.testCases.TC_QuoteApprovalCheckout">
+        <methods>
+          <include name="ProceedToQuote_TC_ID_7_verify_by_placing_order"/>
+          <include name="ProceedToQuote_TC_ID_1_Login"/>
+          <include name="ProceedToQuote_TC_ID_3_Verify_by_clicking_View_and_edit_cart"/>
+          <include name="ProceedToQuote_TC_ID_6_select_Term_and_condition"/>
+          <include name="ProceedToQuote_TC_ID_2_verify_by_clicking_cart_icon"/>
+          <include name="ProceedToQuote_TC_ID_5_Add_card_detail"/>
+          <include name="setup"/>
+          <include name="ProceedToQuote_TC_ID_4_verify_by_clicking_Proceed_to_checkout_button"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.Accuride.testCases.TC_QuoteApprovalCheckout -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
